@@ -16,6 +16,7 @@
 		"angularjs"
 	],
 	"license": "MIT",
+	"main": "angular-autolayout.min.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
